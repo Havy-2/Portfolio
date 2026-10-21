@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contato | Coop Livraria Cuca Legal</title>
+  <link rel="icon" href="sobre/img/logo-rodape.jpg" type="image/jpeg">
+  <link rel="stylesheet" href="css/estilo.css">
+</head>
+<body>
+  <header class="topo">
+    <div class="container topo-interno">
+      <a class="marca" href="index.html">
+        <img src="sobre/img/mascote.jpg" alt="Mascote da Cuca Legal">
+        <span>
+          <small>Coop Livraria</small>
+          <strong>CUCA LEGAL</strong>
+        </span>
+      </a>
+      <nav>
+        <a href="index.html">Início</a>
+        <a href="index.html#vitrine">Livros</a>
+        <a href="sobre.html">Sobre</a>
+        <a class="ativo" href="contato.html">Contato</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section>
+      <h2>Fale conosco</h2>
+      <p class="folhas">✦ ✦ ✦</p>
+      <p>Respondemos em até 2 dias úteis. Ou fale diretamente: (11) 98765-4321 · contato@livrariacucalegal.com.br</p>
+
+      <!--
+        INSTRUÇÕES para Google Forms:
+        1. Substitua SEU_ID pelo código do formulário (entre /e/ e /formResponse)
+        2. Substitua cada entry.XXXXX pelos códigos reais dos campos do Google Forms
+      -->
+
+      <script>var enviado = false;</script>
+      <iframe name="envio-oculto" style="display:none" onload="if (enviado) { window.location = 'obrigado.html'; }"></iframe>
+
+      <form action="https://docs.google.com/forms/d/e/SEU_ID/formResponse" method="POST" target="envio-oculto" onsubmit="enviado = true;">
+        <label>Nome <span class="obrigatorio">*</span></label>
+        <input type="text" name="entry.XXXXX_NOME" placeholder="Seu nome completo" required>
+
+        <label>E-mail <span class="obrigatorio">*</span></label>
+        <input type="email" name="entry.XXXXX_EMAIL" placeholder="seuemail@exemplo.com" required>
+
+        <label>Telefone</label>
+        <input type="tel" name="entry.XXXXX_TELEFONE" placeholder="(11) 98765-4321">
+
+        <label>Assunto <span class="obrigatorio">*</span></label>
+        <select name="entry.XXXXX_ASSUNTO" required>
+          <option value="">Selecione uma opção</option>
+          <option>Orçamento</option>
+          <option>Dúvida</option>
+          <option>Outro</option>
+        </select>
+
+        <label>Mensagem <span class="obrigatorio">*</span></label>
+        <textarea name="entry.XXXXX_MENSAGEM" placeholder="Escreva sua mensagem..." required></textarea>
+
+        <button type="submit" class="btn">Enviar mensagem</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container rodape-contato">
+      <div><div class="icone">☎</div><p>(11) 98765-4321</p></div>
+      <div><div class="icone">✉</div><p>contato@livrariacucalegal.com.br</p></div>
+      <div><div class="icone">📍</div><p>Rua das Flores, 123<br>Centro — São Paulo/SP</p></div>
+      <div><div class="icone">📷</div><p><a href="https://instagram.com/livrariacucalegal" target="_blank" rel="noopener">@livrariacucalegal</a></p></div>
+      <div><div class="icone azul">f</div><p><a href="https://facebook.com/LivrariaCucaLegal" target="_blank" rel="noopener">/LivrariaCucaLegal</a></p></div>
+    </div>
+    <p class="copy">© 2026 Coop Livraria Cuca Legal</p>
+  </footer>
+</body>
+</html>
