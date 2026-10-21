@@ -1,14 +1,15 @@
-/* Portfólio — Desenvolvimento Web */
+/* Portfólio — Tema Escuro e Sério */
 
 :root {
-  --primary: #2563eb;
-  --primary-dark: #1d4ed8;
-  --text: #1f2937;
-  --text-light: #6b7280;
-  --bg: #ffffff;
-  --bg-alt: #f8fafc;
-  --border: #e5e7eb;
-  --card-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.07), 0 2px 4px -2px rgb(0 0 0 / 0.05);
+  --primary: #4f7cff;
+  --primary-dark: #3b66e6;
+  --text: #e8eaed;
+  --text-light: #9aa0a6;
+  --bg: #0f1117;
+  --bg-alt: #171a21;
+  --bg-card: #1c1f27;
+  --border: #2d313a;
+  --card-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
 }
 
 * {
@@ -22,7 +23,7 @@ html {
 }
 
 body {
-  font-family: "Inter", system_ui, -apple-system, sans-serif;
+  font-family: "Inter", system-ui, -apple-system, sans-serif;
   color: var(--text);
   background: var(--bg);
   line-height: 1.6;
@@ -37,7 +38,7 @@ body {
 .header {
   position: sticky;
   top: 0;
-  background: rgba(255, 255, 255, 0.92);
+  background: rgba(15, 17, 23, 0.92);
   backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--border);
   z-index: 100;
@@ -82,7 +83,7 @@ nav a:hover {
 /* Hero */
 .hero {
   padding: 80px 0 60px;
-  background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+  background: linear-gradient(135deg, #0f1117 0%, #1a1e28 100%);
 }
 
 .hero-content {
@@ -91,8 +92,8 @@ nav a:hover {
 
 .tag {
   display: inline-block;
-  background: #dbeafe;
-  color: var(--primary-dark);
+  background: rgba(79, 124, 255, 0.15);
+  color: var(--primary);
   padding: 4px 12px;
   border-radius: 999px;
   font-size: 0.85rem;
@@ -137,7 +138,7 @@ nav a:hover {
 
 .btn-primary {
   background: var(--primary);
-  color: white;
+  color: #0f1117;
 }
 
 .btn-primary:hover {
@@ -151,7 +152,7 @@ nav a:hover {
 }
 
 .btn-secondary:hover {
-  background: #eff6ff;
+  background: rgba(79, 124, 255, 0.1);
 }
 
 .btn-sm {
@@ -198,7 +199,7 @@ nav a:hover {
 }
 
 .stat {
-  background: white;
+  background: var(--bg-card);
   padding: 16px 20px;
   border-radius: 12px;
   border: 1px solid var(--border);
@@ -224,7 +225,7 @@ nav a:hover {
 }
 
 .project-card {
-  background: white;
+  background: var(--bg-card);
   border: 1px solid var(--border);
   border-radius: 14px;
   padding: 24px;
@@ -236,12 +237,12 @@ nav a:hover {
 
 .project-card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 10px 25px -5px rgb(0 0 0 / 0.1);
+  box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.5);
 }
 
 .project-card.featured {
-  border-color: #bfdbfe;
-  background: linear-gradient(180deg, #ffffff 0%, #f0f9ff 100%);
+  border-color: rgba(79, 124, 255, 0.4);
+  background: linear-gradient(180deg, #1c1f27 0%, #1a2030 100%);
 }
 
 .project-header {
@@ -255,7 +256,7 @@ nav a:hover {
   text-transform: uppercase;
   letter-spacing: 0.04em;
   color: var(--primary);
-  background: #eff6ff;
+  background: rgba(79, 124, 255, 0.12);
   padding: 3px 8px;
   border-radius: 6px;
   margin-bottom: 8px;
@@ -281,8 +282,8 @@ nav a:hover {
 }
 
 .tech-list li {
-  background: #f1f5f9;
-  color: #475569;
+  background: #2a2e38;
+  color: #c8cdd4;
   font-size: 0.78rem;
   font-weight: 600;
   padding: 3px 10px;
@@ -304,7 +305,7 @@ nav a:hover {
 }
 
 .skill {
-  background: white;
+  background: var(--bg-card);
   border: 1px solid var(--border);
   border-radius: 12px;
   padding: 20px;
@@ -322,7 +323,7 @@ nav a:hover {
 
 /* Contact */
 .contact-box {
-  background: white;
+  background: var(--bg-card);
   border: 1px solid var(--border);
   border-radius: 14px;
   padding: 28px;
@@ -338,28 +339,34 @@ nav a:hover {
 }
 
 .note {
-  background: #fffbeb;
-  border-left: 4px solid #f59e0b;
+  background: rgba(79, 124, 255, 0.08);
+  border-left: 4px solid var(--primary);
   padding: 12px 16px;
   border-radius: 0 8px 8px 0;
   font-size: 0.9rem;
-  color: #78350f;
+  color: var(--text-light);
 }
 
 .note code {
-  background: #fef3c7;
+  background: #2a2e38;
   padding: 1px 6px;
   border-radius: 4px;
   font-size: 0.85em;
+  color: var(--text);
+}
+
+.note a {
+  color: var(--primary);
 }
 
 /* Footer */
 .footer {
-  background: #111827;
-  color: #d1d5db;
+  background: #0a0c10;
+  color: #9aa0a6;
   padding: 28px 0;
   text-align: center;
   font-size: 0.9rem;
+  border-top: 1px solid var(--border);
 }
 
 .footer-note {
