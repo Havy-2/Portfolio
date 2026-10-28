@@ -19,6 +19,7 @@ Abra o arquivo `index.html` no navegador.
 - LPOO / C# → pastas em `../LPOO_MODULOII/` e `../Projeto_LPOO/`
 - Estrutura de Dados → `../ED.MODULOII/`
 - Banco de Dados (SQL) → `materiais/banco-de-dados/`
+- **ApexCode / Stragalar** (Projeto Final) → `materiais/apexcode/` (scripts SQL)
 
 ## Materiais adicionais
 - Currículo profissional: `curriculo-profissional.docx`
