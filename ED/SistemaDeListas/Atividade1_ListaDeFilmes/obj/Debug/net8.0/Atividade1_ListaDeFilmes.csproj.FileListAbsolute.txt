@@ -1,0 +1,14 @@
+D:\ED.MODULOII\AtividadeLista\Atividade1_ListaDeFilmes\bin\Debug\net8.0\Atividade1_ListaDeFilmes.exe
+D:\ED.MODULOII\AtividadeLista\Atividade1_ListaDeFilmes\bin\Debug\net8.0\Atividade1_ListaDeFilmes.deps.json
+D:\ED.MODULOII\AtividadeLista\Atividade1_ListaDeFilmes\bin\Debug\net8.0\Atividade1_ListaDeFilmes.runtimeconfig.json
+D:\ED.MODULOII\AtividadeLista\Atividade1_ListaDeFilmes\bin\Debug\net8.0\Atividade1_ListaDeFilmes.dll
+D:\ED.MODULOII\AtividadeLista\Atividade1_ListaDeFilmes\bin\Debug\net8.0\Atividade1_ListaDeFilmes.pdb
+D:\ED.MODULOII\AtividadeLista\Atividade1_ListaDeFilmes\obj\Debug\net8.0\Atividade1_ListaDeFilmes.GeneratedMSBuildEditorConfig.editorconfig
+D:\ED.MODULOII\AtividadeLista\Atividade1_ListaDeFilmes\obj\Debug\net8.0\Atividade1_ListaDeFilmes.AssemblyInfoInputs.cache
+D:\ED.MODULOII\AtividadeLista\Atividade1_ListaDeFilmes\obj\Debug\net8.0\Atividade1_ListaDeFilmes.AssemblyInfo.cs
+D:\ED.MODULOII\AtividadeLista\Atividade1_ListaDeFilmes\obj\Debug\net8.0\Atividade1_ListaDeFilmes.csproj.CoreCompileInputs.cache
+D:\ED.MODULOII\AtividadeLista\Atividade1_ListaDeFilmes\obj\Debug\net8.0\Atividade1_ListaDeFilmes.dll
+D:\ED.MODULOII\AtividadeLista\Atividade1_ListaDeFilmes\obj\Debug\net8.0\refint\Atividade1_ListaDeFilmes.dll
+D:\ED.MODULOII\AtividadeLista\Atividade1_ListaDeFilmes\obj\Debug\net8.0\Atividade1_ListaDeFilmes.pdb
+D:\ED.MODULOII\AtividadeLista\Atividade1_ListaDeFilmes\obj\Debug\net8.0\Atividade1_ListaDeFilmes.genruntimeconfig.cache
+D:\ED.MODULOII\AtividadeLista\Atividade1_ListaDeFilmes\obj\Debug\net8.0\ref\Atividade1_ListaDeFilmes.dll
