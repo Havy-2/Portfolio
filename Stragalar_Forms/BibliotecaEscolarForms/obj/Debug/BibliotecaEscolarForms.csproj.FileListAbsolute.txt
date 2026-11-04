@@ -1,0 +1,7 @@
+C:\Users\ALUNO\Downloads\BibliotecaEscolarForms\BibliotecaEscolarForms\bin\Debug\BibliotecaEscolarForms.exe.config
+C:\Users\ALUNO\Downloads\BibliotecaEscolarForms\BibliotecaEscolarForms\bin\Debug\BibliotecaEscolarForms.exe
+C:\Users\ALUNO\Downloads\BibliotecaEscolarForms\BibliotecaEscolarForms\bin\Debug\BibliotecaEscolarForms.pdb
+C:\Users\ALUNO\Downloads\BibliotecaEscolarForms\BibliotecaEscolarForms\obj\Debug\BibliotecaEscolarForms.csproj.AssemblyReference.cache
+C:\Users\ALUNO\Downloads\BibliotecaEscolarForms\BibliotecaEscolarForms\obj\Debug\BibliotecaEscolarForms.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Downloads\BibliotecaEscolarForms\BibliotecaEscolarForms\obj\Debug\BibliotecaEscolarForms.exe
+C:\Users\ALUNO\Downloads\BibliotecaEscolarForms\BibliotecaEscolarForms\obj\Debug\BibliotecaEscolarForms.pdb
