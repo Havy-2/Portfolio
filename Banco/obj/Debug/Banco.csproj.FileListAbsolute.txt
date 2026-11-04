@@ -1,0 +1,42 @@
+F:\ExemploBanco\Banco\bin\Debug\Banco.exe.config
+F:\ExemploBanco\Banco\bin\Debug\Banco.exe
+F:\ExemploBanco\Banco\bin\Debug\Banco.pdb
+F:\ExemploBanco\Banco\obj\Debug\Banco.csproj.AssemblyReference.cache
+F:\ExemploBanco\Banco\obj\Debug\Banco.csproj.SuggestedBindingRedirects.cache
+F:\ExemploBanco\Banco\obj\Debug\Banco.Frm_principal.resources
+F:\ExemploBanco\Banco\obj\Debug\Banco.Properties.Resources.resources
+F:\ExemploBanco\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+F:\ExemploBanco\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+F:\ExemploBanco\Banco\obj\Debug\Banco.exe
+F:\ExemploBanco\Banco\obj\Debug\Banco.pdb
+F:\ExemploBanco\Banco\obj\Debug\Banco.Frm_dadosCliente.resources
+F:\ExemploBanco\Banco\obj\Debug\Banco.Frm_saque.resources
+F:\ExemploBanco\Banco\obj\Debug\Banco.Frm_deposito.resources
+D:\2 - Vasco Coutinho\CEET_Info\Disciplina_LPOO\2026-1_LPOO\Unidade4-Interface Gráfica\ExemploBanco-Atividade 10\Banco\bin\Debug\Banco.exe.config
+D:\2 - Vasco Coutinho\CEET_Info\Disciplina_LPOO\2026-1_LPOO\Unidade4-Interface Gráfica\ExemploBanco-Atividade 10\Banco\bin\Debug\Banco.exe
+D:\2 - Vasco Coutinho\CEET_Info\Disciplina_LPOO\2026-1_LPOO\Unidade4-Interface Gráfica\ExemploBanco-Atividade 10\Banco\bin\Debug\Banco.pdb
+D:\2 - Vasco Coutinho\CEET_Info\Disciplina_LPOO\2026-1_LPOO\Unidade4-Interface Gráfica\ExemploBanco-Atividade 10\Banco\obj\Debug\Banco.csproj.AssemblyReference.cache
+D:\2 - Vasco Coutinho\CEET_Info\Disciplina_LPOO\2026-1_LPOO\Unidade4-Interface Gráfica\ExemploBanco-Atividade 10\Banco\obj\Debug\Banco.exe.config
+D:\2 - Vasco Coutinho\CEET_Info\Disciplina_LPOO\2026-1_LPOO\Unidade4-Interface Gráfica\ExemploBanco-Atividade 10\Banco\obj\Debug\Banco.Frm_dadosCliente.resources
+D:\2 - Vasco Coutinho\CEET_Info\Disciplina_LPOO\2026-1_LPOO\Unidade4-Interface Gráfica\ExemploBanco-Atividade 10\Banco\obj\Debug\Banco.Frm_deposito.resources
+D:\2 - Vasco Coutinho\CEET_Info\Disciplina_LPOO\2026-1_LPOO\Unidade4-Interface Gráfica\ExemploBanco-Atividade 10\Banco\obj\Debug\Banco.Frm_principal.resources
+D:\2 - Vasco Coutinho\CEET_Info\Disciplina_LPOO\2026-1_LPOO\Unidade4-Interface Gráfica\ExemploBanco-Atividade 10\Banco\obj\Debug\Banco.Frm_saque.resources
+D:\2 - Vasco Coutinho\CEET_Info\Disciplina_LPOO\2026-1_LPOO\Unidade4-Interface Gráfica\ExemploBanco-Atividade 10\Banco\obj\Debug\Banco.Properties.Resources.resources
+D:\2 - Vasco Coutinho\CEET_Info\Disciplina_LPOO\2026-1_LPOO\Unidade4-Interface Gráfica\ExemploBanco-Atividade 10\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+D:\2 - Vasco Coutinho\CEET_Info\Disciplina_LPOO\2026-1_LPOO\Unidade4-Interface Gráfica\ExemploBanco-Atividade 10\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+D:\2 - Vasco Coutinho\CEET_Info\Disciplina_LPOO\2026-1_LPOO\Unidade4-Interface Gráfica\ExemploBanco-Atividade 10\Banco\obj\Debug\Banco.exe
+D:\2 - Vasco Coutinho\CEET_Info\Disciplina_LPOO\2026-1_LPOO\Unidade4-Interface Gráfica\ExemploBanco-Atividade 10\Banco\obj\Debug\Banco.pdb
+D:\Banco\bin\Debug\Banco.exe.config
+D:\Banco\bin\Debug\Banco.exe
+D:\Banco\bin\Debug\Banco.pdb
+D:\Banco\obj\Debug\Banco.csproj.AssemblyReference.cache
+D:\Banco\obj\Debug\Banco.exe.config
+D:\Banco\obj\Debug\Banco.Frm_dadosCliente.resources
+D:\Banco\obj\Debug\Banco.Frm_deposito.resources
+D:\Banco\obj\Debug\Banco.Frm_principal.resources
+D:\Banco\obj\Debug\Banco.Frm_saque.resources
+D:\Banco\obj\Debug\Banco.Properties.Resources.resources
+D:\Banco\obj\Debug\Banco.csproj.GenerateResource.cache
+D:\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+D:\Banco\obj\Debug\Banco.exe
+D:\Banco\obj\Debug\Banco.pdb

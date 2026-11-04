@@ -1,0 +1,14 @@
+D:\ED.MODULOII\Atividade2Lista\bin\Debug\net8.0\Atividade2Lista.exe
+D:\ED.MODULOII\Atividade2Lista\bin\Debug\net8.0\Atividade2Lista.deps.json
+D:\ED.MODULOII\Atividade2Lista\bin\Debug\net8.0\Atividade2Lista.runtimeconfig.json
+D:\ED.MODULOII\Atividade2Lista\bin\Debug\net8.0\Atividade2Lista.dll
+D:\ED.MODULOII\Atividade2Lista\bin\Debug\net8.0\Atividade2Lista.pdb
+D:\ED.MODULOII\Atividade2Lista\obj\Debug\net8.0\Atividade2Lista.GeneratedMSBuildEditorConfig.editorconfig
+D:\ED.MODULOII\Atividade2Lista\obj\Debug\net8.0\Atividade2Lista.AssemblyInfoInputs.cache
+D:\ED.MODULOII\Atividade2Lista\obj\Debug\net8.0\Atividade2Lista.AssemblyInfo.cs
+D:\ED.MODULOII\Atividade2Lista\obj\Debug\net8.0\Atividade2Lista.csproj.CoreCompileInputs.cache
+D:\ED.MODULOII\Atividade2Lista\obj\Debug\net8.0\Atividade2Lista.dll
+D:\ED.MODULOII\Atividade2Lista\obj\Debug\net8.0\refint\Atividade2Lista.dll
+D:\ED.MODULOII\Atividade2Lista\obj\Debug\net8.0\Atividade2Lista.pdb
+D:\ED.MODULOII\Atividade2Lista\obj\Debug\net8.0\Atividade2Lista.genruntimeconfig.cache
+D:\ED.MODULOII\Atividade2Lista\obj\Debug\net8.0\ref\Atividade2Lista.dll
