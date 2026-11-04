@@ -1,0 +1,49 @@
+Projeto: CandidatoEstagio
+Form: Frm_Cadastro
+
+Nomenclatura dos componentes (Passo 9):
+
+Labels
+  lblTitulo
+  lblNome
+  lblDataNascimento
+  lblIdade
+  lblAreaAtuacao
+  lblDisponibilidade
+  lblEscolaridade
+
+TextBox
+  txtNome
+  txtDia
+  txtMes
+  txtAno
+  txtIdade          (somente leitura — calculada)
+
+Buttons
+  btnCalcular
+  btnEnviar
+  btnLimpar
+  btnSair
+
+RadioButton (dentro de pnlAreaAtuacao)
+  rdbAdministracao
+  rdbComputacao
+  rdbEngenharia
+  rdbSaude
+
+Panel
+  pnlAreaAtuacao
+  pnlDisponibilidade   (opcional)
+
+CheckBox
+  chkMatutino
+  chkVespertino
+  chkNoturno
+
+ComboBox
+  cmbEscolaridade      (itens: Médio, Técnico, Superior)
+
+Observações da atividade:
+- A idade NÃO é atributo da classe Candidato; é calculada na execução (btnCalcular / ToString).
+- Ao clicar em Enviar, os dados da tela vão para o objeto Candidato (exceto a idade).
+- Feedback com MessageBox mostrando o ToString do candidato.
